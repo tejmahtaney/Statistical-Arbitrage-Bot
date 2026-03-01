@@ -1,0 +1,7 @@
+alpaca-trade-api
+matplotlib
+numpy
+pandas
+requests
+statsmodels
+yfinance
